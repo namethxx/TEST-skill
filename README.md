@@ -1,3 +1,2 @@
 #TEST_SKILL#
-# lolem $
-h1 HELLO WOLRD
+# lolem $ HELLO WOLRD
